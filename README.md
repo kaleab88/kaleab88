@@ -63,14 +63,40 @@
 </table>
 
 ---
+---
 
-### 📊 GitHub Stats
+### 🔥 Focus Areas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaleab88&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs" />
+  <img src="https://skillicons.dev/icons?i=python,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,git,github" />
+</p>
+
+---
+
+### 🧱 What I’m Building Now
+- 🌐 Full-stack web applications (frontend → backend)
+- 🧠 Strong programming fundamentals (JS & Python)
+- 🔐 Secure systems and authentication basics
+- 🧩 Real projects, not just tutorials
+
+---
+
+### ⭐ Featured Work
+<p align="center">
+  <a href="https://github.com/kaleab88/threejs-virtual-aquarium">
+    <img src="https://skillicons.dev/icons?i=threejs" />
+  </a>
+  <a href="https://github.com/kaleab88/Secure-Authentication-System">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+  <a href="https://github.com/kaleab88/Landing-page">
+    <img src="https://skillicons.dev/icons?i=html,css" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kaleab88&theme=tokyonight&hide_border=true" />
+  <i>Projects over promises.</i>
 </p>
 
 
